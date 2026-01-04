@@ -141,5 +141,27 @@ export const quizQuestions = [
       "Bruges"
     ],
     correctAnswer: 0
+  },
+  {
+    id: 14,
+    question: "What is the primary gas in the Sun's composition?",
+    options: [
+      "Nitrogen",
+      "Chlorine",
+      "Hydrogen",
+      "Oxygen"
+    ],
+    correctAnswer: 2
+  },
+  {
+    id: 15,
+    question: "Who played the role of Ellen Ripley in the Alien movie series?",
+    options: [
+      "Meryl Streep",
+      "Jodie Foster",
+      "Glenn Close",
+      "Sigourney Weaver"
+    ],
+    correctAnswer: 3
   }
 ];
