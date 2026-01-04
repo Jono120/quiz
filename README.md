@@ -1,16 +1,16 @@
 # Work Team Quiz App
 
-A modern, interactive 10-question quiz application built with React and Vite, designed to engage work teams with questions about teamwork, communication, and workplace best practices.
+A modern, interactive 10-question quiz application built with React and Vite.
 
 ## Features
 
-- 📝 10 professionally crafted questions about workplace topics
-- 🎯 Multiple choice format with intuitive interface
-- 📊 Instant scoring with performance feedback
-- 🔍 Detailed answer review showing correct and incorrect responses
-- 📱 Fully responsive design for desktop and mobile
-- ✨ Smooth animations and transitions
-- 🎨 Modern, clean UI with professional styling
+- :notebook: 10 questions
+- :dart: Multiple choice format with intuitive interface
+- :bar_chart: Instant scoring with performance feedback
+- :mag_right: Detailed answer review showing correct and incorrect responses
+- :computer::iphone: Fully responsive design for desktop and mobile
+- :star: Smooth animations and transitions
+- :space_invader: Modern, clean UI with professional styling
 
 ## Getting Started
 
@@ -108,7 +108,7 @@ Edit `src/data/questions.js` to customize the quiz questions:
 ## Performance Features
 
 - Fast refresh with Vite HMR
-- Optimized bundle size
+- Optimised bundle size
 - Smooth animations with CSS transitions
 - Lazy loading ready
 
