@@ -127,3 +127,7 @@ Built with modern web technologies for an engaging team learning experience.
 ---
 
 Made with ❤️ for work teams everywhere
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F61V9XSE)
+
+<a href="https://www.buymeacoffee.com/jono420" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 45px !important; !important;" ></a>
